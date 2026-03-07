@@ -23,6 +23,7 @@ export const WORK_TIMELINE: WorkTimelinePoint[] = [
     year: '2023',
     title: 'New Wave Biotech, Biotech startup',
     subtitle: 'Strategy Intern',
+    skills: 'Market Research, Competitive Analysis, Strategic Planning',
     position: 'left',
   },
   {
@@ -30,6 +31,7 @@ export const WORK_TIMELINE: WorkTimelinePoint[] = [
     year: '2024',
     title: 'Arup, global engineering consultancy',
     subtitle: 'Deals Advisory Intern',
+    skills: 'Financial Modelling, Valuation, Due Diligence',
     position: 'left',
   },
   {
@@ -37,6 +39,7 @@ export const WORK_TIMELINE: WorkTimelinePoint[] = [
     year: '2025',
     title: 'Aventur, WealthTech scaleup',
     subtitle: 'Quantitative Investment Associate',
+    skills: 'Quantitative Analysis, Portfolio Management, Product Development',
     position: 'right',
   }
 ]
