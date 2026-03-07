@@ -15,7 +15,7 @@ export const WORK_TIMELINE: WorkTimelinePoint[] = [
     year: '2022-2025',
     title: 'LSE',
     subtitle: 'BSc Mathematics and Economics',
-    skills: 'Statistical Modelling, Data Analysis, Linear Algebra '
+    skills: 'Statistical Modelling, Data Analysis, Linear Algebra ',
     position: 'left',
   },
   {
