@@ -32,7 +32,7 @@ const TextWindow = () => {
         {...fontProps}
         scale={[1, -1, 1]}
         rotation={[0, 0,  -Math.PI / 2]}>
-        FRONTEND ENGINEER
+        INVESTMENT ANALYST.
       </Text>
 
       <Text color="white" anchorX="right" anchorY="middle"
@@ -50,7 +50,7 @@ const TextWindow = () => {
           scale={[1, -1, 1]}
           fontSize={0.8}
           rotation={[0, -Math.PI / 2,  -Math.PI / 2]}>
-          DESIGNER. DUMBASS.
+          DESIGNER. PRODUCT.
         </Text>
 
         <Text color="white" anchorX="left" anchorY="middle"
@@ -59,7 +59,7 @@ const TextWindow = () => {
           fontSize={0.8}
           position={[0, 0, -0.6]}
           rotation={[0, -Math.PI / 2,  -Math.PI / 2]}>
-          DJ. MELOMANIAC
+          CLIMBER. EQUITIES.
         </Text>
       </group>
 
